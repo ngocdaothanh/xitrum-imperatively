@@ -1,4 +1,5 @@
-TODO
+Add xitrum-imperatively
+-----------------------
 
 Add to build.sbt of your Xitrum 3.8+ project:
 
@@ -16,3 +17,10 @@ Add to build.sbt of your Xitrum 3.8+ project:
   }
 
   scalacOptions += "-P:continuations:enable"
+
+Usage
+-----
+
+TODO
+
+See also `xitrum-demos <https://github.com/ngocdaothanh/xitrum-demos/blob/master/src/main/scala/demos/action/BoringGreeter.scala>`_.
