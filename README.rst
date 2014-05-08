@@ -1,3 +1,14 @@
+Note
+----
+
+https://github.com/scala/scala-continuations
+
+  You may also be interested in https://github.com/scala/async, which covers
+  the most common use case for the continuations plugin.
+
+  The Scala Delimited Continuations Plugin and Library will continue to ship
+  with Scala 2.11.0. However, it will no longer be included with Scala 2.12.
+
 Add xitrum-imperatively
 -----------------------
 
