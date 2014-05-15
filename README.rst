@@ -33,5 +33,3 @@ Usage
 -----
 
 TODO
-
-See also `xitrum-demos <https://github.com/ngocdaothanh/xitrum-demos/blob/master/src/main/scala/demos/action/BoringGreeter.scala>`_.
