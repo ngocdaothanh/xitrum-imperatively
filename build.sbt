@@ -4,7 +4,7 @@ name := "xitrum-imperatively"
 
 version := "1.0-SNAPSHOT"
 
-scalaVersion := "2.11.0"
+scalaVersion := "2.11.1"
 
 scalacOptions ++= Seq("-deprecation", "-feature", "-unchecked")
 
@@ -15,7 +15,7 @@ javacOptions ++= Seq("-source", "1.7", "-target", "1.7")
 // and it takes several hours to sync from Sonatype to Maven Central
 resolvers += "SonatypeReleases" at "http://oss.sonatype.org/content/repositories/releases/"
 
-libraryDependencies += "tv.cntt" %% "xitrum" % "3.8" % "provided"
+libraryDependencies += "tv.cntt" %% "xitrum" % "3.12" % "provided"
 
 // xitrum-imperatively uses Scala continuation, a compiler plugin --------------
 
